@@ -1,4 +1,4 @@
-# Assignment 2 - Buffer Manager #
+# Buffer Manager #
 
 The goal of this assignment is to implement a buffer manager that manages a fixed number of pages in memory that represent pages from a page file 
 managed by the storage manager implemented in assignment 1. The memory pages managed by the buffer manager are called page frames or 
@@ -97,13 +97,13 @@ Step 4: Type command ```make run``` if you are using a Windows machine
 
 ## Contibutions: ##
 
-**Chirag Khandhar : **
+**Akash K Shetty : **
 ```pinPage()```, ```strategyForFIFOandLRU()```, ```getAttributionArray()```, ```updateBfrAtrbt()```, ```unpinPage()``` and Updating ```buffer_mgr.h```.
 
-**Akash Tanwani : **
+**Aishwarya Sureban : **
 ```initBufferPool()```, ```shutdownBufferPool()```, ```forceFlushPool()```, ```freePagesForBuffer()```, ```markDirty()``` and ```forcePage ()```. 
 
-**Gandhali Khedlekar : ** ```getFrameContents()```,```getDirtyFlags ```,```getFixCounts()```, ```getNumReadIO()``` and ```getNumWriteIO()```.
+**Siri Chandrashekar : ** ```getFrameContents()```,```getDirtyFlags ```,```getFixCounts()```, ```getNumReadIO()``` and ```getNumWriteIO()```.
 
 
 
