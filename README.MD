@@ -94,20 +94,3 @@ Step 3: Type command ```make``` and hit enter. (Files are complied and ready to 
 Step 4: Type command ```make run``` if you are using a Windows machine
 
 -----------------------------------------------------------------------------------------------------------------
-
-## Contibutions: ##
-
-**Akash K Shetty : **
-```pinPage()```, ```strategyForFIFOandLRU()```, ```getAttributionArray()```, ```updateBfrAtrbt()```, ```unpinPage()``` and Updating ```buffer_mgr.h```.
-
-**Aishwarya Sureban : **
-```initBufferPool()```, ```shutdownBufferPool()```, ```forceFlushPool()```, ```freePagesForBuffer()```, ```markDirty()``` and ```forcePage ()```. 
-
-**Siri Chandrashekar : ** ```getFrameContents()```,```getDirtyFlags ```,```getFixCounts()```, ```getNumReadIO()``` and ```getNumWriteIO()```.
-
-
-
-
-
-
------------------------------------------------------------------------------------------------------------------
